@@ -15,3 +15,4 @@ Usage:
 * Click **Other** (If you select Dashlane, it'll expect it in the mangled format Dashlane outputs)
 * Click the file at the bottom and browse to 1PasswordImport_Passwords.csv
 * Validate that all your passwords were imported correctly.
+* Re-enable backups.
